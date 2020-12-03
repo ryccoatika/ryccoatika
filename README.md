@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on android open source application.
 - 🤔 I’m looking for help with best practice on developing android application.
 - 💬 Ask me about anything, I will try my best to get back to you
-- 📫 How to reach me: `ryccoatika.ra@gmail.com`
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: -->
