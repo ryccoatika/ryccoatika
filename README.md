@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/ryccoatika/ryccoatika/main/assets/banner.png" width="100%"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ryccoatika-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryccoatika/)](https://www.linkedin.com/in/ryccoatika/)
-[![Website Badge](https://img.shields.io/badge/-ryccoatika.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ryccoatika.github.io)](https://ryccoatika.github.io)
+[![Website Badge](https://img.shields.io/badge/-ryccoatika.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ryccoatika.com)](https://www.ryccoatika.com)
 [![Gmail Badge](https://img.shields.io/badge/-ryccoatika.ra-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ryccoatika.ra@gmail.com)](mailto:ryccoatika.ra@gmail.com)
 <!--
 **ryccoatika/ryccoatika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
